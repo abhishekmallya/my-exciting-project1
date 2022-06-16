@@ -1,1 +1,1 @@
-# DG Assignment
+This is a sample README.
